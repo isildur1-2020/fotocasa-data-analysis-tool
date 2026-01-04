@@ -1,4 +1,4 @@
-# FOTO CASA SCRAPPER
+# FOTO CASA SCRAPPER.
 
 Verify .env and cookies.json to run
 And its the first time also mongo-init.js
